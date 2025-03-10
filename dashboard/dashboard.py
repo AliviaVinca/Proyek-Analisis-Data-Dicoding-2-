@@ -7,7 +7,7 @@ import seaborn as sns
 st.title("Analisis Penggunaan Sepeda (Bike Sharing)")
 st.write("Dashboard ini menampilkan analisis penggunaan sepeda berdasarkan tren musiman, kondisi cuaca, dan pola penggunaan pada hari weekend.")
 
-day_df = pd.read_csv('main_data.csv') 
+day_df = pd.read_csv('dashboard/main_data.csv') 
 day_df['dteday'] = pd.to_datetime(day_df['dteday'])
 day_df['month'] = day_df['dteday'].dt.month
 
