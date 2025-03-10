@@ -1,4 +1,4 @@
-Streamlit==1.43.1
-Pandas==2.2.3
-Matplotlib==3.10.1
-Seaborn==0.13.2
+streamlit==1.43.1
+pandas==2.2.3
+matplotlib==3.10.1
+seaborn==0.13.2
