@@ -1,4 +1,4 @@
-# Proyek Analisis Data Dashboard ✨
+# Proyek Analisis Data Dicoding ✨
 Created by: Alivia Vinca Kustaryono
 
 
